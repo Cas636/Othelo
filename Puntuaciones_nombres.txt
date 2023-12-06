@@ -1,0 +1,9 @@
+El jugador de las fichas negras es Johan
+El jugador de las fichas blancas es Angello
+El jugador de las fichas negras es stivel
+El jugador de las fichas blancas es camm
+El jugador de las fichas negras es null
+El jugador de las fichas negras es juan
+El jugador de las fichas blancas es pedro
+El jugador de las fichas negras es Johan
+El jugador de las fichas blancas es Angello
